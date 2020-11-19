@@ -6,6 +6,6 @@
   $i = 6;
   $i = $i * 350;
 
-  echo " O resultado da variável feita em PHP é: $i";
+  echo " Fernando O resultado da variável feita em PHP é: $i";
   ?>
 </h4>
